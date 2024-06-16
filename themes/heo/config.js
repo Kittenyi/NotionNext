@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客' },
+    { title: '欢迎来到我的博客', url: 'https://docs.tangly1024.com' },
     { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '专业分享',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: ROYISLAND.XYZ',
+  HEO_HERO_TITLE_3: royisland.XYZ',
   HEO_HERO_TITLE_4: '生产力工具',
   HEO_HERO_TITLE_5: 'Notion教程',
   HEO_HERO_TITLE_LINK: 'https://shikilabs.com/',
